@@ -2,7 +2,7 @@
 
 - I am a Computer Science Engineering Student at Marmara University (6/8 Semester) :student:
 - Java, C, Python programmer :desktop_computer:
-- Interested in Software :keyboard: :computer_mouse:
+- Interested in Software, DBMS :keyboard: :computer_mouse:
 - Currently learning about Computer Organization, Software Engineering, Introduction to Signals and Systems, Formal Languages and Automata Theory, Operations Research, and Technical Comm. and Entrepreneurship at the university :open_book:
 - Experience with SpringBoot and ReactJS 🤓
 - I am currently working to create a new project :no_mouth:
