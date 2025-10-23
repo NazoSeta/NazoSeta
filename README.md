@@ -3,7 +3,7 @@ Experienced in both backend and frontend development using Java, C, Python, Asse
 
 Having lived in both the Netherlands and Turkey, I bring a multicultural perspective, adaptability, and strong interpersonal skills. Passionate about continuous learning, teamwork, and building innovative software and hardware solutions.
 
-🎓 Computer Science Engineering Graduate, Marmara University (GPA: 3.78)
+🎓 Computer Science Engineering Graduate, Marmara University (GPA: 3.78) 2nd in class, 3rd in faculty
 
 💻 Languages: Java, C, Python
 
