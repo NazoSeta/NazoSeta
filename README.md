@@ -4,9 +4,13 @@ Experienced in both backend and frontend development using Java, C, Python, Asse
 Having lived in both the Netherlands and Turkey, I bring a multicultural perspective, adaptability, and strong interpersonal skills. Passionate about continuous learning, teamwork, and building innovative software and hardware solutions.
 
 🎓 Computer Science Engineering Graduate, Marmara University (GPA: 3.78)
+
 💻 Languages: Java, C, Python
+
 🧠 Areas of Interest: Software Development, Data Science, Mathematics
+
 ⚙️ Tech Stack: Spring Boot, ReactJS, SQL
+
 🚀 Currently developing a solo project and open to collaborations.
 
 📬 Contact: niyaziozanates@gmail.com
