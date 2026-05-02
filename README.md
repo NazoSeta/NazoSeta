@@ -1,16 +1,9 @@
-Motivated Computer Science Engineer with a strong foundation in software development, data science, machine learning, deep learning, computer networks, and mathematics.
-Experienced in both backend and frontend development using Java, C, Python, Assembly, SQL, Spring Boot, and ReactJS.
-
-Having lived in both the Netherlands and Turkey, I bring a multicultural perspective, adaptability, and strong interpersonal skills. Passionate about continuous learning, teamwork, and building innovative software and hardware solutions.
+Software Engineer with hands-on experience delivering production full-stack applications using Spring Boot, and Angular. Strong background in backend systems, databases, data structures, and scalable application design, with practical exposure to cloud deployments and DevOps practices. Experienced working in multicultural environments across the Netherlands and Turkey, bringing strong communication and collaboration skills. Passionate about building efficient, impactful software and continuously expanding technical expertise.
 
 🎓 Computer Science Engineering Graduate, Marmara University (GPA: 3.78) 2nd in class, 3rd in faculty
-
-💻 Languages: Java, C, Python
-
+💻 Languages: Java, JavaScript, C, Python
 🧠 Areas of Interest: Software Development, Data Science, Mathematics
-
-⚙️ Tech Stack: Spring Boot, ReactJS, SQL
-
+⚙️ Tech Stack: Spring Boot, Angular, ReactJS, SQL
 🚀 Currently developing a solo project and open to collaborations.
 
 📬 Contact: niyaziozanates@gmail.com
